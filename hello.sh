@@ -1,2 +1,2 @@
-echo " hello " >> /tmp/hello.txt
+echo " hello google " >> /tmp/hello.txt
 date >> /tmp/date.txt
